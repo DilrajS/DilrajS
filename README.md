@@ -15,7 +15,4 @@
 <br>
 
 #### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DilrajS&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dilrajs&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
