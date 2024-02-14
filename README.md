@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 **I'm working on:** 'FlashAI'—a web app transforming notes into AI-powered flashcards using OpenAI's GPT.<br>
 👯 **Looking to collaborate on:** Projects merging AI with learning and productivity.<br>
-🌱 **Learning:** Implementing Lambda 2 for local flashcard generation to optimize performance.<br>
+🌱 **Learning:** Deepening my expertise in large language models, including Lambda 2, to enhance local AI capabilities across applications. <br>
 💬 **Talk to me about:** Full-stack AI application development with Python and JavaScript.<br>
-⚡ **Fun fact:** The best advice I received: View challenges as opportunities for innovation in AI.
+⚡ **Fun fact:** The best advice I ever received was to see challenges as opportunities. It's a mindset that's vital in AI, where every problem is a chance for innovation.<br>
 
 ## 🌐 My linedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilrajsandhu/) 
@@ -13,6 +13,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DilrajS&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
