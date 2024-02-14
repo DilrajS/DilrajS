@@ -5,7 +5,7 @@
 💬 **Talk to me about:** Full-stack AI application development with Python and JavaScript.<br>
 ⚡ **Fun fact:** The best advice I ever received was to see challenges as opportunities. It's a mindset that's vital in AI, where every problem is a chance for innovation.<br>
 
-# 🌐 My linedIn:
+# 🌐 My LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilrajsandhu/) 
 
 # 💻 Tech Stack:
