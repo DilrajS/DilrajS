@@ -17,7 +17,5 @@
 <br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dilraj_S) 
 
-<br>
-
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DilrajS&theme=nord&no-frame=true&no-bg=false&margin-w=4) 
