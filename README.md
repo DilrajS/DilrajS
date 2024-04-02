@@ -1,3 +1,5 @@
+
+![DilrajSTicket.png](DilrajSTicket.png)
 # 💫 About Me:
 🔭 **I'm working on:** 'FlashAI'—a web app transforming notes into AI-powered flashcards using OpenAI's GPT.<br>
 👯 **Looking to collaborate on:** Projects merging AI with learning and productivity.<br>
