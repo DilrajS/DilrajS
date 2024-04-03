@@ -44,7 +44,7 @@ I'm Dilraj, a passionate software developer specializing in AI and machine learn
 
 - **LinkedIn**: [Dilraj Sandhu](https://www.linkedin.com/in/dilrajsandhu/)
 - **Email**: dilraj36@gmail.com
-- **GitHub**: [DilrajS](https://github.com/DilrajS)
+
 
 I am open to collaboration on projects that leverage AI for educational and productivity enhancements. If you're interested in discussing potential opportunities or have a project in mind, feel free to reach out.
 
