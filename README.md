@@ -52,4 +52,4 @@ I am open to collaboration on projects that leverage AI for educational and prod
 
 ## Looking Forward
 
-As I continue to navigate my journey in machine learning, I am particularly drawn towards advancing my expertise in natural language processing and computer vision. My goal is to build a fulfilling career in ML, where I can contribute to innovative solutions and push the boundaries of what's possible with AI. I'm also keen on contributing to open-source projects and engaging with the tech community to share knowledge and learn from others.
+In my machine learning journey, I am eager to deepen my understanding and explore the fields of natural language processing and the promising realm of computer vision. My ambition is to carve out a rewarding career in ML, driving forward with innovative solutions that stretch the boundaries of AI's capabilities. Engaging with the open-source community and sharing insights with fellow tech enthusiasts remain key facets of my professional development path.
