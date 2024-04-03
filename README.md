@@ -1,23 +1,55 @@
+# Dilraj Sandhu
+
 ![DilrajSTicket.png](/images/DilrajSTicket.png)
 
 ![aboutMe.gif](/images/aboutMe.gif)
-🔭 **I'm working on:** 'FlashAI'—a web app transforming notes into AI-powered flashcards using OpenAI's GPT.<br>
-👯 **Looking to collaborate on:** Projects merging AI with learning and productivity.<br>
-🌱 **Learning:** Deepening my expertise in large language models, including Llama 2, to enhance local AI capabilities across applications. <br>
-💬 **Talk to me about:** Full-stack AI application development with Python and JavaScript.<br>
-⚡ **Fun fact:** The best advice I ever received was to see challenges as opportunities. It's a mindset that's vital in AI, where every problem is a chance for innovation.<br>
+I'm Dilraj, a passionate software developer specializing in AI and machine learning technologies. With a focus on developing full-stack AI applications, I am always on the lookout for innovative ways to integrate AI into everyday solutions. My journey has been marked by a constant quest for learning and applying new technologies to solve real-world problems. I believe in the power of AI to transform industries and strive to contribute meaningful advancements to this field. Holding a BS in Cognitive Science with a specialization in Machine Learning and Neural Computation, I aim to deepen my expertise and make significant contributions to the ML community.
+
+## Current Projects
+
+- **FlashAI**: A web app that transforms notes into AI-powered flashcards, leveraging OpenAI's GPT for efficient study methods.
+- **Prompt Engineering Assistant Chatbot**: A tool designed to help users craft effective prompts for Large Language Models, emphasizing fine-tuning and data synthesis.
+- **ZeroToHeroML**: A comprehensive guide and interactive platform for learners to transition from novices to experts in machine learning.
+- **PromptCraft**: An exploration into prompt engineering, sharing insights and techniques for interacting with AI models. This project represents my most recent completion, encapsulating advanced techniques and practical applications in prompt engineering.
+- **Spotify Song Popularity Prediction**: Utilizing Spotify's dataset to predict song popularity based on audio features with machine learning models.
 
 ![techStack.gif](/images/techStack.gif)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Machine Learning/AI
+
+- Python, TensorFlow, PyTorch, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Plotly, mlflow
+- Experience with Llama 2 and OpenAI's GPT models
+
+### Frontend Development
+
+- HTML5, CSS3, JavaScript, React, Next.js
+
+### Backend Development
+
+- Node.js, Flask, Django
+
+### Database Technologies
+
+- MySQL, SQLite
+
+### DevOps & Cloud
+
+- AWS, Nginx
+
+### Others
+
+- Git, Markdown, JIRA, Adobe Creative Cloud
 
 ![contact.gif](/images/contact.gif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilrajsandhu/)
-<br>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13357779)
-<br>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dilraj_S)
 
-<br>
+- **LinkedIn**: [Dilraj Sandhu](https://www.linkedin.com/in/dilrajsandhu/)
+- **Email**: [dilraj36@gmail.com](mailto:dilraj36@gmail.com?subject=Connecting from Github)
+- **GitHub**: [DilrajS](https://github.com/DilrajS)
+
+I am open to collaboration on projects that leverage AI for educational and productivity enhancements. If you're interested in discussing potential opportunities or have a project in mind, feel free to reach out.
 
 ![other.gif](/images/other.gif)
-![](https://github-profile-trophy.vercel.app/?username=DilrajS&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
+## Looking Forward
+
+As I continue to navigate my journey in machine learning, I am particularly drawn towards advancing my expertise in natural language processing and computer vision. My goal is to build a fulfilling career in ML, where I can contribute to innovative solutions and push the boundaries of what's possible with AI. I'm also keen on contributing to open-source projects and engaging with the tech community to share knowledge and learn from others.
