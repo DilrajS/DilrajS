@@ -30,7 +30,7 @@ I'm Dilraj, a passionate software developer specializing in AI and machine learn
 
 ### Database Technologies
 
-- MySQL, SQLite
+- SQL
 
 ### DevOps & Cloud
 
@@ -38,7 +38,7 @@ I'm Dilraj, a passionate software developer specializing in AI and machine learn
 
 ### Others
 
-- Git, Markdown, JIRA, Adobe Creative Cloud
+- Git, Markdown, JIRA, Asana, Adobe Creative Cloud
 
 ![contact.gif](/images/contact.gif)
 
