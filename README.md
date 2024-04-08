@@ -1,7 +1,5 @@
 # Dilraj Sandhu
 
-![DilrajSTicket.png](/images/DilrajSTicket.png)
-
 ![aboutMe.gif](/images/aboutMe.gif)
 I'm Dilraj, a passionate software developer specializing in AI and machine learning technologies. With a focus on developing full-stack AI applications, I am always on the lookout for innovative ways to integrate AI into everyday solutions. My journey has been marked by a constant quest for learning and applying new technologies to solve real-world problems. I believe in the power of AI to transform industries and strive to contribute meaningful advancements to this field. Holding a BS in Cognitive Science with a specialization in Machine Learning and Neural Computation, I aim to deepen my expertise and make significant contributions to the ML community.
 
@@ -53,3 +51,6 @@ I am open to collaboration on projects that leverage AI for educational and prod
 ## Looking Forward
 
 In my machine learning journey, I am eager to deepen my understanding and explore the fields of natural language processing and the promising realm of computer vision. My ambition is to carve out a rewarding career in ML, driving forward with innovative solutions that stretch the boundaries of AI's capabilities. Engaging with the open-source community and sharing insights with fellow tech enthusiasts remain key facets of my professional development path.
+
+
+![DilrajSTicket.png](/images/DilrajSTicket.png)
