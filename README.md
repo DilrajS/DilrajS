@@ -51,6 +51,3 @@ I am open to collaboration on projects that leverage AI for educational and prod
 ## Looking Forward
 
 In my machine learning journey, I am eager to deepen my understanding and explore the fields of natural language processing and the promising realm of computer vision. My ambition is to carve out a rewarding career in ML, driving forward with innovative solutions that stretch the boundaries of AI's capabilities. Engaging with the open-source community and sharing insights with fellow tech enthusiasts remain key facets of my professional development path.
-
-
-![DilrajSTicket.png](/images/DilrajSTicket.png)
