@@ -5,9 +5,9 @@ I'm Dilraj, a passionate software developer specializing in AI and machine learn
 
 ## Current Projects
 
+- **ZeroToHeroML**: A comprehensive guide and interactive platform for learners to transition from novices to experts in machine learning.
 - **FlashAI**: A web app that transforms notes into AI-powered flashcards, leveraging OpenAI's GPT for efficient study methods.
 - **Prompt Engineering Assistant Chatbot**: A tool designed to help users craft effective prompts for Large Language Models, emphasizing fine-tuning and data synthesis.
-- **ZeroToHeroML**: A comprehensive guide and interactive platform for learners to transition from novices to experts in machine learning.
 - **PromptCraft**: An exploration into prompt engineering, sharing insights and techniques for interacting with AI models. This project represents my most recent completion, encapsulating advanced techniques and practical applications in prompt engineering.
 - **Spotify Song Popularity Prediction**: Utilizing Spotify's dataset to predict song popularity based on audio features with machine learning models.
 
